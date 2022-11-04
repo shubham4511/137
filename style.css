@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.object_name{
+   font-size: 30px;
+   font-weight: bold;
+   color: blue;
+}
+canvas{
+    
+    border-radius: 10px;
+    background-color: red;
+    box-shadow: 5px 5px 5px white;
+}
